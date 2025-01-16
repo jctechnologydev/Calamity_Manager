@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c62120d5-3daa-42a2-8300-85c363826c4f": {
+      "ProjectGuid": "c62120d5-3daa-42a2-8300-85c363826c4f",
+      "DisplayName": "BussinessObjectDLL",
+      "ColorIndex": 0
+    },
+    "ccef463e-d24b-41c2-951e-29e393564589": {
+      "ProjectGuid": "ccef463e-d24b-41c2-951e-29e393564589",
+      "DisplayName": "Frontend",
+      "ColorIndex": 1
+    },
+    "472936c4-d161-4759-9e9d-904972553355": {
+      "ProjectGuid": "472936c4-d161-4759-9e9d-904972553355",
+      "DisplayName": "DadosDLL",
+      "ColorIndex": 2
+    },
+    "7496a737-9afb-44fd-af7c-e9e441cecf75": {
+      "ProjectGuid": "7496a737-9afb-44fd-af7c-e9e441cecf75",
+      "DisplayName": "BussinessRulesDLL",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

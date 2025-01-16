@@ -1,0 +1,52 @@
+C:\Users\Joel Jonasssi\Desktop\Trabalho _ 19698_19681 _fase2\GerirCalamidade\DadosDLL\bin\Debug\DadosDLL.dll
+C:\Users\Joel Jonasssi\Desktop\Trabalho _ 19698_19681 _fase2\GerirCalamidade\DadosDLL\bin\Debug\DadosDLL.pdb
+C:\Users\Joel Jonasssi\Desktop\Trabalho _ 19698_19681 _fase2\GerirCalamidade\DadosDLL\bin\Debug\ClassLibrary1.dll
+C:\Users\Joel Jonasssi\Desktop\Trabalho _ 19698_19681 _fase2\GerirCalamidade\DadosDLL\bin\Debug\ClassLibrary1.pdb
+C:\Users\Joel Jonasssi\Desktop\Trabalho _ 19698_19681 _fase2\GerirCalamidade\DadosDLL\obj\Debug\DadosDLL.csprojAssemblyReference.cache
+C:\Users\Joel Jonasssi\Desktop\Trabalho _ 19698_19681 _fase2\GerirCalamidade\DadosDLL\obj\Debug\DadosDLL.csproj.CoreCompileInputs.cache
+C:\Users\Joel Jonasssi\Desktop\Trabalho _ 19698_19681 _fase2\GerirCalamidade\DadosDLL\obj\Debug\DadosDLL.csproj.CopyComplete
+C:\Users\Joel Jonasssi\Desktop\Trabalho _ 19698_19681 _fase2\GerirCalamidade\DadosDLL\obj\Debug\DadosDLL.dll
+C:\Users\Joel Jonasssi\Desktop\Trabalho _ 19698_19681 _fase2\GerirCalamidade\DadosDLL\obj\Debug\DadosDLL.pdb
+C:\Users\Joel Jonasssi\Desktop\Trabalho _ 19698_19681 _fase2\GerirCalamidade\DadosDLL\bin\Debug\ExcepcoesDLL.dll
+C:\Users\Joel Jonasssi\Desktop\Trabalho _ 19698_19681 _fase2\GerirCalamidade\DadosDLL\bin\Debug\InterfacesDLL.dll
+C:\Users\Joel Jonasssi\Desktop\Trabalho _ 19698_19681 _fase2\GerirCalamidade\DadosDLL\bin\Debug\ExcepcoesDLL.pdb
+C:\Users\Joel Jonasssi\Desktop\Trabalho _ 19698_19681 _fase2\GerirCalamidade\DadosDLL\bin\Debug\InterfacesDLL.pdb
+C:\Users\Joel Jonasssi\Desktop\trabalhoLP2 _ 19698_19681 _fase2\GerirCalamidade\DadosDLL\bin\Debug\DadosDLL.dll
+C:\Users\Joel Jonasssi\Desktop\trabalhoLP2 _ 19698_19681 _fase2\GerirCalamidade\DadosDLL\bin\Debug\DadosDLL.pdb
+C:\Users\Joel Jonasssi\Desktop\trabalhoLP2 _ 19698_19681 _fase2\GerirCalamidade\DadosDLL\bin\Debug\ClassLibrary1.dll
+C:\Users\Joel Jonasssi\Desktop\trabalhoLP2 _ 19698_19681 _fase2\GerirCalamidade\DadosDLL\bin\Debug\ExcepcoesDLL.dll
+C:\Users\Joel Jonasssi\Desktop\trabalhoLP2 _ 19698_19681 _fase2\GerirCalamidade\DadosDLL\bin\Debug\InterfacesDLL.dll
+C:\Users\Joel Jonasssi\Desktop\trabalhoLP2 _ 19698_19681 _fase2\GerirCalamidade\DadosDLL\bin\Debug\ClassLibrary1.pdb
+C:\Users\Joel Jonasssi\Desktop\trabalhoLP2 _ 19698_19681 _fase2\GerirCalamidade\DadosDLL\bin\Debug\ExcepcoesDLL.pdb
+C:\Users\Joel Jonasssi\Desktop\trabalhoLP2 _ 19698_19681 _fase2\GerirCalamidade\DadosDLL\bin\Debug\InterfacesDLL.pdb
+C:\Users\Joel Jonasssi\Desktop\trabalhoLP2 _ 19698_19681 _fase2\GerirCalamidade\DadosDLL\obj\Debug\DadosDLL.csprojAssemblyReference.cache
+C:\Users\Joel Jonasssi\Desktop\trabalhoLP2 _ 19698_19681 _fase2\GerirCalamidade\DadosDLL\obj\Debug\DadosDLL.csproj.CoreCompileInputs.cache
+C:\Users\Joel Jonasssi\Desktop\trabalhoLP2 _ 19698_19681 _fase2\GerirCalamidade\DadosDLL\obj\Debug\DadosDLL.csproj.CopyComplete
+C:\Users\Joel Jonasssi\Desktop\trabalhoLP2 _ 19698_19681 _fase2\GerirCalamidade\DadosDLL\obj\Debug\DadosDLL.dll
+C:\Users\Joel Jonasssi\Desktop\trabalhoLP2 _ 19698_19681 _fase2\GerirCalamidade\DadosDLL\obj\Debug\DadosDLL.pdb
+C:\Users\Asus\Desktop\2ºAno\1ºAno\trabalhoLP2 _ 19698_19681 _fase2\GerirCalamidade\DadosDLL\obj\Debug\DadosDLL.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\2ºAno\1ºAno\trabalhoLP2 _ 19698_19681 _fase2\GerirCalamidade\DadosDLL\obj\Debug\DadosDLL.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\2ºAno\1ºAno\trabalhoLP2 _ 19698_19681 _fase2\GerirCalamidade\DadosDLL\obj\Debug\DadosDLL.pdb
+C:\Users\Asus\Desktop\2ºAno\1ºAno\trabalhoLP2 _ 19698_19681 _fase2\GerirCalamidade\DadosDLL\bin\Debug\DadosDLL.dll
+C:\Users\Asus\Desktop\2ºAno\1ºAno\trabalhoLP2 _ 19698_19681 _fase2\GerirCalamidade\DadosDLL\bin\Debug\DadosDLL.pdb
+C:\Users\Asus\Desktop\2ºAno\1ºAno\trabalhoLP2 _ 19698_19681 _fase2\GerirCalamidade\DadosDLL\bin\Debug\ClassLibrary1.dll
+C:\Users\Asus\Desktop\2ºAno\1ºAno\trabalhoLP2 _ 19698_19681 _fase2\GerirCalamidade\DadosDLL\bin\Debug\ExcepcoesDLL.dll
+C:\Users\Asus\Desktop\2ºAno\1ºAno\trabalhoLP2 _ 19698_19681 _fase2\GerirCalamidade\DadosDLL\bin\Debug\InterfacesDLL.dll
+C:\Users\Asus\Desktop\2ºAno\1ºAno\trabalhoLP2 _ 19698_19681 _fase2\GerirCalamidade\DadosDLL\bin\Debug\ClassLibrary1.pdb
+C:\Users\Asus\Desktop\2ºAno\1ºAno\trabalhoLP2 _ 19698_19681 _fase2\GerirCalamidade\DadosDLL\bin\Debug\ExcepcoesDLL.pdb
+C:\Users\Asus\Desktop\2ºAno\1ºAno\trabalhoLP2 _ 19698_19681 _fase2\GerirCalamidade\DadosDLL\bin\Debug\InterfacesDLL.pdb
+C:\Users\Asus\Desktop\2ºAno\1ºAno\trabalhoLP2 _ 19698_19681 _fase2\GerirCalamidade\DadosDLL\obj\Debug\DadosDLL.csproj.CopyComplete
+C:\Users\Asus\Desktop\2ºAno\1ºAno\trabalhoLP2 _ 19698_19681 _fase2\GerirCalamidade\DadosDLL\obj\Debug\DadosDLL.dll
+C:\Users\Asus\source\repos\GerirCalamidade_Project\DadosDLL\bin\Debug\DadosDLL.dll
+C:\Users\Asus\source\repos\GerirCalamidade_Project\DadosDLL\bin\Debug\DadosDLL.pdb
+C:\Users\Asus\source\repos\GerirCalamidade_Project\DadosDLL\bin\Debug\ExcepcoesDLL.dll
+C:\Users\Asus\source\repos\GerirCalamidade_Project\DadosDLL\bin\Debug\InterfacesDLL.dll
+C:\Users\Asus\source\repos\GerirCalamidade_Project\DadosDLL\bin\Debug\ExcepcoesDLL.pdb
+C:\Users\Asus\source\repos\GerirCalamidade_Project\DadosDLL\bin\Debug\InterfacesDLL.pdb
+C:\Users\Asus\source\repos\GerirCalamidade_Project\DadosDLL\obj\Debug\DadosDLL.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\GerirCalamidade_Project\DadosDLL\obj\Debug\DadosDLL.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\GerirCalamidade_Project\DadosDLL\obj\Debug\DadosDLL.csproj.CopyComplete
+C:\Users\Asus\source\repos\GerirCalamidade_Project\DadosDLL\obj\Debug\DadosDLL.dll
+C:\Users\Asus\source\repos\GerirCalamidade_Project\DadosDLL\obj\Debug\DadosDLL.pdb
+C:\Users\Asus\source\repos\GerirCalamidade_Project\DadosDLL\bin\Debug\BussinessObjectDLL.dll
+C:\Users\Asus\source\repos\GerirCalamidade_Project\DadosDLL\bin\Debug\BussinessObjectDLL.pdb

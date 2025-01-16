@@ -1,0 +1,18 @@
+C:\Users\Joel Jonasssi\Desktop\Trabalho _ 19698_19681 _fase2\GerirCalamidade\ExcepcoesDLL\bin\Debug\ExcepcoesDLL.dll
+C:\Users\Joel Jonasssi\Desktop\Trabalho _ 19698_19681 _fase2\GerirCalamidade\ExcepcoesDLL\bin\Debug\ExcepcoesDLL.pdb
+C:\Users\Joel Jonasssi\Desktop\Trabalho _ 19698_19681 _fase2\GerirCalamidade\ExcepcoesDLL\obj\Debug\ExcepcoesDLL.csproj.CoreCompileInputs.cache
+C:\Users\Joel Jonasssi\Desktop\Trabalho _ 19698_19681 _fase2\GerirCalamidade\ExcepcoesDLL\obj\Debug\ExcepcoesDLL.dll
+C:\Users\Joel Jonasssi\Desktop\Trabalho _ 19698_19681 _fase2\GerirCalamidade\ExcepcoesDLL\obj\Debug\ExcepcoesDLL.pdb
+C:\Users\Joel Jonasssi\Desktop\Trabalho _ 19698_19681 _fase2\GerirCalamidade\ExcepcoesDLL\obj\Debug\ExcepcoesDLL.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\2ºAno\1ºAno\trabalhoLP2 _ 19698_19681 _fase2\GerirCalamidade\ExcepcoesDLL\bin\Debug\ExcepcoesDLL.dll
+C:\Users\Asus\Desktop\2ºAno\1ºAno\trabalhoLP2 _ 19698_19681 _fase2\GerirCalamidade\ExcepcoesDLL\bin\Debug\ExcepcoesDLL.pdb
+C:\Users\Asus\Desktop\2ºAno\1ºAno\trabalhoLP2 _ 19698_19681 _fase2\GerirCalamidade\ExcepcoesDLL\obj\Debug\ExcepcoesDLL.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\2ºAno\1ºAno\trabalhoLP2 _ 19698_19681 _fase2\GerirCalamidade\ExcepcoesDLL\obj\Debug\ExcepcoesDLL.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\2ºAno\1ºAno\trabalhoLP2 _ 19698_19681 _fase2\GerirCalamidade\ExcepcoesDLL\obj\Debug\ExcepcoesDLL.dll
+C:\Users\Asus\Desktop\2ºAno\1ºAno\trabalhoLP2 _ 19698_19681 _fase2\GerirCalamidade\ExcepcoesDLL\obj\Debug\ExcepcoesDLL.pdb
+C:\Users\Asus\source\repos\GerirCalamidade_Project\ExcepcoesDLL\bin\Debug\ExcepcoesDLL.dll
+C:\Users\Asus\source\repos\GerirCalamidade_Project\ExcepcoesDLL\bin\Debug\ExcepcoesDLL.pdb
+C:\Users\Asus\source\repos\GerirCalamidade_Project\ExcepcoesDLL\obj\Debug\ExcepcoesDLL.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\GerirCalamidade_Project\ExcepcoesDLL\obj\Debug\ExcepcoesDLL.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\GerirCalamidade_Project\ExcepcoesDLL\obj\Debug\ExcepcoesDLL.dll
+C:\Users\Asus\source\repos\GerirCalamidade_Project\ExcepcoesDLL\obj\Debug\ExcepcoesDLL.pdb

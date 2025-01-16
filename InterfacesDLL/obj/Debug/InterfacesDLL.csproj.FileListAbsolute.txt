@@ -1,0 +1,17 @@
+C:\Users\Joel Jonasssi\Desktop\Trabalho _ 19698_19681 _fase2\GerirCalamidade\InterfacesDLL\bin\Debug\InterfacesDLL.dll
+C:\Users\Joel Jonasssi\Desktop\Trabalho _ 19698_19681 _fase2\GerirCalamidade\InterfacesDLL\bin\Debug\InterfacesDLL.pdb
+C:\Users\Joel Jonasssi\Desktop\Trabalho _ 19698_19681 _fase2\GerirCalamidade\InterfacesDLL\obj\Debug\InterfacesDLL.csproj.CoreCompileInputs.cache
+C:\Users\Joel Jonasssi\Desktop\Trabalho _ 19698_19681 _fase2\GerirCalamidade\InterfacesDLL\obj\Debug\InterfacesDLL.dll
+C:\Users\Joel Jonasssi\Desktop\Trabalho _ 19698_19681 _fase2\GerirCalamidade\InterfacesDLL\obj\Debug\InterfacesDLL.pdb
+C:\Users\Joel Jonasssi\Desktop\Trabalho _ 19698_19681 _fase2\GerirCalamidade\InterfacesDLL\obj\Debug\InterfacesDLL.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\2ºAno\1ºAno\trabalhoLP2 _ 19698_19681 _fase2\GerirCalamidade\InterfacesDLL\bin\Debug\InterfacesDLL.dll
+C:\Users\Asus\Desktop\2ºAno\1ºAno\trabalhoLP2 _ 19698_19681 _fase2\GerirCalamidade\InterfacesDLL\bin\Debug\InterfacesDLL.pdb
+C:\Users\Asus\Desktop\2ºAno\1ºAno\trabalhoLP2 _ 19698_19681 _fase2\GerirCalamidade\InterfacesDLL\obj\Debug\InterfacesDLL.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\2ºAno\1ºAno\trabalhoLP2 _ 19698_19681 _fase2\GerirCalamidade\InterfacesDLL\obj\Debug\InterfacesDLL.dll
+C:\Users\Asus\Desktop\2ºAno\1ºAno\trabalhoLP2 _ 19698_19681 _fase2\GerirCalamidade\InterfacesDLL\obj\Debug\InterfacesDLL.pdb
+C:\Users\Asus\source\repos\GerirCalamidade_Project\InterfacesDLL\bin\Debug\InterfacesDLL.dll
+C:\Users\Asus\source\repos\GerirCalamidade_Project\InterfacesDLL\bin\Debug\InterfacesDLL.pdb
+C:\Users\Asus\source\repos\GerirCalamidade_Project\InterfacesDLL\obj\Debug\InterfacesDLL.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\GerirCalamidade_Project\InterfacesDLL\obj\Debug\InterfacesDLL.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\GerirCalamidade_Project\InterfacesDLL\obj\Debug\InterfacesDLL.dll
+C:\Users\Asus\source\repos\GerirCalamidade_Project\InterfacesDLL\obj\Debug\InterfacesDLL.pdb

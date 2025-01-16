@@ -1,0 +1,45 @@
+C:\Users\Joel Jonasssi\Desktop\Trabalho _ 19698_19681 _fase2\GerirCalamidade\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Joel Jonasssi\Desktop\Trabalho _ 19698_19681 _fase2\GerirCalamidade\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Joel Jonasssi\Desktop\Trabalho _ 19698_19681 _fase2\GerirCalamidade\ClassLibrary1\obj\Debug\BussinessObjectDLL.csprojAssemblyReference.cache
+C:\Users\Joel Jonasssi\Desktop\Trabalho _ 19698_19681 _fase2\GerirCalamidade\ClassLibrary1\obj\Debug\BussinessObjectDLL.csproj.CoreCompileInputs.cache
+C:\Users\Joel Jonasssi\Desktop\Trabalho _ 19698_19681 _fase2\GerirCalamidade\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Joel Jonasssi\Desktop\Trabalho _ 19698_19681 _fase2\GerirCalamidade\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\Joel Jonasssi\Desktop\Trabalho _ 19698_19681 _fase2\GerirCalamidade\ClassLibrary1\bin\Debug\ExcepcoesDLL.dll
+C:\Users\Joel Jonasssi\Desktop\Trabalho _ 19698_19681 _fase2\GerirCalamidade\ClassLibrary1\bin\Debug\ExcepcoesDLL.pdb
+C:\Users\Joel Jonasssi\Desktop\Trabalho _ 19698_19681 _fase2\GerirCalamidade\ClassLibrary1\obj\Debug\BussinessObjectDLL.csproj.CopyComplete
+C:\Users\Joel Jonasssi\Desktop\trabalhoLP2 _ 19698_19681 _fase2\GerirCalamidade\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Joel Jonasssi\Desktop\trabalhoLP2 _ 19698_19681 _fase2\GerirCalamidade\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Joel Jonasssi\Desktop\trabalhoLP2 _ 19698_19681 _fase2\GerirCalamidade\ClassLibrary1\bin\Debug\ExcepcoesDLL.dll
+C:\Users\Joel Jonasssi\Desktop\trabalhoLP2 _ 19698_19681 _fase2\GerirCalamidade\ClassLibrary1\bin\Debug\ExcepcoesDLL.pdb
+C:\Users\Joel Jonasssi\Desktop\trabalhoLP2 _ 19698_19681 _fase2\GerirCalamidade\ClassLibrary1\obj\Debug\BussinessObjectDLL.csprojAssemblyReference.cache
+C:\Users\Joel Jonasssi\Desktop\trabalhoLP2 _ 19698_19681 _fase2\GerirCalamidade\ClassLibrary1\obj\Debug\BussinessObjectDLL.csproj.CoreCompileInputs.cache
+C:\Users\Joel Jonasssi\Desktop\trabalhoLP2 _ 19698_19681 _fase2\GerirCalamidade\ClassLibrary1\obj\Debug\BussinessObjectDLL.csproj.CopyComplete
+C:\Users\Joel Jonasssi\Desktop\trabalhoLP2 _ 19698_19681 _fase2\GerirCalamidade\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Joel Jonasssi\Desktop\trabalhoLP2 _ 19698_19681 _fase2\GerirCalamidade\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\Asus\Desktop\2ºAno\1ºAno\trabalhoLP2 _ 19698_19681 _fase2\GerirCalamidade\ClassLibrary1\obj\Debug\BussinessObjectDLL.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\2ºAno\1ºAno\trabalhoLP2 _ 19698_19681 _fase2\GerirCalamidade\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\Asus\Desktop\2ºAno\1ºAno\trabalhoLP2 _ 19698_19681 _fase2\GerirCalamidade\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Asus\Desktop\2ºAno\1ºAno\trabalhoLP2 _ 19698_19681 _fase2\GerirCalamidade\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Asus\Desktop\2ºAno\1ºAno\trabalhoLP2 _ 19698_19681 _fase2\GerirCalamidade\ClassLibrary1\bin\Debug\ExcepcoesDLL.dll
+C:\Users\Asus\Desktop\2ºAno\1ºAno\trabalhoLP2 _ 19698_19681 _fase2\GerirCalamidade\ClassLibrary1\bin\Debug\ExcepcoesDLL.pdb
+C:\Users\Asus\Desktop\2ºAno\1ºAno\trabalhoLP2 _ 19698_19681 _fase2\GerirCalamidade\ClassLibrary1\obj\Debug\BussinessObjectDLL.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\2ºAno\1ºAno\trabalhoLP2 _ 19698_19681 _fase2\GerirCalamidade\ClassLibrary1\obj\Debug\BussinessObjectDLL.csproj.CopyComplete
+C:\Users\Asus\Desktop\2ºAno\1ºAno\trabalhoLP2 _ 19698_19681 _fase2\GerirCalamidade\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Asus\source\repos\GerirCalamidade_Project\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Asus\source\repos\GerirCalamidade_Project\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Asus\source\repos\GerirCalamidade_Project\ClassLibrary1\bin\Debug\ExcepcoesDLL.dll
+C:\Users\Asus\source\repos\GerirCalamidade_Project\ClassLibrary1\bin\Debug\ExcepcoesDLL.pdb
+C:\Users\Asus\source\repos\GerirCalamidade_Project\ClassLibrary1\obj\Debug\BussinessObjectDLL.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\GerirCalamidade_Project\ClassLibrary1\obj\Debug\BussinessObjectDLL.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\GerirCalamidade_Project\ClassLibrary1\obj\Debug\BussinessObjectDLL.csproj.CopyComplete
+C:\Users\Asus\source\repos\GerirCalamidade_Project\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Asus\source\repos\GerirCalamidade_Project\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\Asus\source\repos\GerirCalamidade_Project\BussinessObjectDLL\bin\Debug\ExcepcoesDLL.dll
+C:\Users\Asus\source\repos\GerirCalamidade_Project\BussinessObjectDLL\bin\Debug\ExcepcoesDLL.pdb
+C:\Users\Asus\source\repos\GerirCalamidade_Project\BussinessObjectDLL\obj\Debug\BussinessObjectDLL.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\GerirCalamidade_Project\BussinessObjectDLL\obj\Debug\BussinessObjectDLL.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\GerirCalamidade_Project\BussinessObjectDLL\obj\Debug\BussinessObjectDLL.csproj.CopyComplete
+C:\Users\Asus\source\repos\GerirCalamidade_Project\BussinessObjectDLL\bin\Debug\BussinessObjectDLL.dll
+C:\Users\Asus\source\repos\GerirCalamidade_Project\BussinessObjectDLL\bin\Debug\BussinessObjectDLL.pdb
+C:\Users\Asus\source\repos\GerirCalamidade_Project\BussinessObjectDLL\obj\Debug\BussinessObjectDLL.dll
+C:\Users\Asus\source\repos\GerirCalamidade_Project\BussinessObjectDLL\obj\Debug\BussinessObjectDLL.pdb
