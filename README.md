@@ -27,30 +27,15 @@ This project aims to:
 - **Resource Management**  
   Allocate and track resources efficiently during calamities.  
 
-- **Data Visualization**  
-  Use interactive maps and dashboards to understand disaster zones and affected areas.  
-
 - **Post-Event Reporting**  
   Generate detailed reports for analysis and future preparedness.
 
 ---
 
-## Screenshots
-
-Add screenshots or visual examples of the application here:  
-- ![Dashboard Example](path/to/dashboard_image.png)  
-- ![Disaster Map](path/to/map_image.png)  
-- ![Resource Management](path/to/resource_management_image.png)  
-
----
-
 ## Technologies Used
 
-- **Frontend**: React, Angular, or similar frameworks  
-- **Backend**: Node.js, Python (Django/Flask)  
-- **Database**: PostgreSQL, MongoDB  
-- **Mapping and Visualization**: Leaflet.js, Google Maps API  
-- **Cloud Services**: AWS, Azure, or GCP for scalability and reliability  
+- **Backend**: .Net, C#
+- **Database**: PostgreSQL
 
 ---
 
